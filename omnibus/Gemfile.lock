@@ -232,7 +232,7 @@ GEM
     iostruct (0.0.4)
     ipaddress (0.8.3)
     iso8601 (0.13.0)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     json (2.5.1)
     kitchen-vagrant (1.8.0)
       test-kitchen (>= 1.4, < 3)
